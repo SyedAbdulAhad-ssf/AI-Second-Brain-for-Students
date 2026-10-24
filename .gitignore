@@ -1,0 +1,13 @@
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local database and instance data
+instance/
